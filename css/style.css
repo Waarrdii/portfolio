@@ -69,6 +69,10 @@ a{
 }
 
 /* Title */
+.section-title{
+  margin: 1rem 0 4rem;
+  font-size: 2rem; 
+}
 .pre-title{
   text-transform: uppercase;
   letter-spacing: .5rem;
@@ -164,10 +168,24 @@ nav ul li a{
 }
 
 .hero-right img {
-width: 90%;
+width: 60%;
 }
 
 .hero-right{
   display: flex;
   justify-content: center;
+}
+
+/* service section */
+#services {
+  background-color: var(--secondaryBackgroundColor);
+  padding: var(--sectionPadding);
+}
+
+.services .pre-title{
+  margin: 0 auto;
+  
+}
+.services-title{
+  text-align: center;
 }
