@@ -1,6 +1,6 @@
 
 
-https://www.youtube.com/watch?v=kjdT_M2F9tc 
+https://www.youtube.com/watch?v=kjdT_M2F9tc?t=49m35s
 
 https://getcssscan.com/css-box-shadow-examples
 
