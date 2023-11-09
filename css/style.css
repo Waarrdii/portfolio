@@ -289,3 +289,45 @@ width: 60%;
   padding: var(--sectionPadding);
   background: var(--secondaryBackgroundColor);
 }
+
+.skill-grid{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 3rem;
+}
+
+.education{
+  display: flex;
+  gap: 2rem;
+}
+
+.education .line{
+  padding: 0 .7rem;
+}
+
+.education .line div{
+  width: 2px;
+  height: 100%;
+  background-color: var(--borderColor);
+  position: relative;
+}
+
+.education-info{
+  margin: .6rem 0 1.4rem;
+}
+
+.education-years{
+margin-bottom: 3rem;
+}
+
+/* the dot on the line */
+.education .line div::before{
+  content: "";
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  background-color: var(--borderColor);
+  border-radius: 50%;
+  left: -6px;
+  top: 13.5px;
+}
