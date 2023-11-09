@@ -72,6 +72,7 @@ a{
 .section-title{
   margin: 1rem 0 4rem;
   font-size: 2rem; 
+  text-transform: capitalize;
 }
 .pre-title{
   text-transform: uppercase;
@@ -280,4 +281,11 @@ width: 60%;
   padding: .4rem 1rem;
   color: var(--secondaryTextColor);
   border-radius: 5px;
+}
+
+
+/* skills & Education */
+#skills{
+  padding: var(--sectionPadding);
+  background: var(--secondaryBackgroundColor);
 }
