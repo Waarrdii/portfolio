@@ -1,6 +1,6 @@
 Test Git setting dari github
 
-https://youtu.be/kjdT_M2F9tc?si=npGUMba1hlFrtWz7&t=3752
+https://youtu.be/kjdT_M2F9tc?si=pZcnk0upRHKH36Mf&t=5484
 
 https://getcssscan.com/css-box-shadow-examples
 
