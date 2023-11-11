@@ -416,3 +416,35 @@ margin-bottom: 3rem;
 .contact-item-detail h4{
   margin-bottom: .6rem;
 }
+/* footer */
+footer{
+  text-align: center;
+  padding: 4rem 0;
+  background-color: var(--secondaryBackgroundColor);
+}
+
+.footerIcon{
+  margin-bottom: 1rem;
+}
+
+.footerIcon a{
+  margin: 0 .5rem;
+}
+
+.footerIcon svg{
+  fill: var(--secondaryTextColor);
+}
+
+.footerIcon svg:hover{
+  fill: var(--primaryTextColor);
+}
+
+footer p a {
+ color: var(--secondaryTextColor);
+}
+
+footer p a:hover{
+  color: var(--primaryTextColor);
+}
+
+/* end of footer */
