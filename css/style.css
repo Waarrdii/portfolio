@@ -467,6 +467,9 @@ footer p a:hover{
     display: block;
     cursor: pointer;
   }
+
+  /* navigation */
+  
 }
 
 @media screen and (max-width: 640px) {
