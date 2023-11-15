@@ -523,6 +523,16 @@ footer p a:hover{
   .hero-right img{
     width: 50%;
   }
+  .hero-left{
+   text-align: center;
+  }
+  .hero-left .pre-title{
+    margin: 0 auto;
+  }
+  .hero-name{
+    font-size: 2.3rem;
+    margin-bottom: .5rem;
+  }
 }
 
 @media screen and (max-width: 640px) {
